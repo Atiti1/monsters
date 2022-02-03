@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Bigelow-Rules';
+}
+
+.search-input {
+  height: 20rem;
+  width: 30rem;
+}
+
